@@ -3,5 +3,5 @@
 - from 2011 to now
 
 ## Skills
-[v] Unity3D Engine
-[v] C#
+- Unity3D Engine
+- C#
